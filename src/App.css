@@ -118,7 +118,7 @@ a.shortened-link:hover {
 }
   
   footer {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 600;
     position: absolute;
     bottom: 20px;
@@ -143,6 +143,9 @@ a.shortened-link:hover {
     .toolbar button {
       font-size: 12px;
       padding: 6px 10px;
+    }
+    h1{
+        font-size: 16px;
     }
   }
   
