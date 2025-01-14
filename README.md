@@ -8,7 +8,7 @@
 **- Highlighter & Url Shortener**
 
 ### API Used - 
-**[is.gd](https://is.gd/index.php)**
+**[is.gd](https://is.gd/index.php){:target="_blank"}**
 
 ## Live at Netlify - 
 
