@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <h1>Tiptap Editor with Custom Url Shortener Extension</h1>
+    <h1>Tiptap Editor with Custom Url Shortener Ex</h1>
     <div>
       <Editor />
     </div>
