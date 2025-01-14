@@ -7,6 +7,9 @@
 ### Custom Created - 
 **- Highlighter & Url Shortener**
 
+### API Used - 
+**[is.gd](https://is.gd/index.php)**
+
 ## Live at Netlify - 
 
 
